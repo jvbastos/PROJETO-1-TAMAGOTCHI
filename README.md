@@ -31,6 +31,6 @@ Se chegar no final do 7* dia, se idade for maior ou igual a 7.
 ▪️Hugo
 ▪️Eduardo
 ▪️Lucas 
-
+▪️João Vitor
 ▫️Orientador:
 ▪️ Gilberto de OLiveira
